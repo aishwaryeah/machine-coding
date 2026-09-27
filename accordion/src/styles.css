@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  width: 100%;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.content {
+  width: 100%;
+  padding: 5px;
+}
+
+.accordion-container {
+  border: 1px solid grey;
+  margin: 10px;
+}
